@@ -144,14 +144,14 @@ Continuously learning and exploring advanced topics like:
 -	Provides live bid updates and notifications
 
 
-### 🔐 Enhancing IoT Security Through Emotion Detection(https://github.com/SharmaJi-29/Enhancing-IoT-Security-by-Using-Emotion-Detection)
+### 🔐 [Enhancing IoT Security Through Emotion Detection](https://github.com/SharmaJi-29/Enhancing-IoT-Security-by-Using-Emotion-Detection)
 🗓️ Jan 2025 – Jul 2025  
 - 🔍 Designed an AI system to detect **human emotions for anomaly and threat identification**  
 - 🔐 Applied **computer vision and deep learning** for real-time surveillance analysis  
 - ⚙️ Proposed a secure framework combining **AI + IoT for intelligent intrusion prevention**   
 
 
-### 📝 Automatic Answer Checker(https://github.com/SharmaJi-29/Automatic-Answer-Checker)
+### 📝 [Automatic Answer Checker](https://github.com/SharmaJi-29/Automatic-Answer-Checker)
 🗓️ Jul 2024 – Dec 2024  
 - 🖼️ Built an **OCR-based system** to evaluate handwritten answer sheets automatically  
 - 🧠 Used **NLP techniques** to compare answers and generate scoring logic  
